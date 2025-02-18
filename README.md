@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **AirBnb Hotel Booking Website**
 
 - 🤝 I’m looking for help with **Full Stack development Opportunities**
--    A passionate **Full Stack Developer** based in Toronto, Canada. 🌍
+-  🌍 A passionate **Full Stack Developer** based in Toronto, Canada. 
 
 - 📫 How to reach me **yash.gupta.dev15@gmail.com**
 
