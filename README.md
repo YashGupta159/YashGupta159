@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate <b>Full Stack Developer</b> from Toronto,Canada</h3>
 
-- 🔭 I’m currently working on **AirBnb Hotel Booking Website**
+- 🔭 I’m currently working on **AirBnb Hotel Booking Data Project**
 
-- 🤝 I’m looking for help with **Full Stack development Opportunities**
--  🌍 A passionate **Full Stack Developer** based in Toronto, Canada. 
+- 🤝 I’m looking for help with **Data Analyst Opportunities**
+-  🌍 A passionate **PowerBI Developer** based in Whitby, Canada. 
 
-- 📫 How to reach me **yash.gupta.dev15@gmail.com**
+- 📫 How to reach me **yash.gupta.data15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
