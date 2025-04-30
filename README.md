@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A passionate <b>Full Stack Developer</b> from Toronto,Canada</h3>
+<h3 align="center">A passionate <b>Data Developer</b> from Toronto,Canada</h3>
 
 - 🔭 I’m currently working on **AirBnb Hotel Booking Data Project**
 
