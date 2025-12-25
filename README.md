@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A passionate <b>Data Developer</b> from Whitby,Canada</h3>
+<h3 align="center">A passionate <b>Data Scientist and AI Engineer</b> from Toronto,Canada</h3>
 
 - 🔭 I’m currently working on **AirBnb Hotel Booking Data Project**
 
-- 🤝 I’m looking for help with **Data Analyst Opportunities**
+- 🤝 I’m looking for help with **AI Engineer Opportunities**
 -  🌍 A passionate **PowerBI Developer** based in Whitby, Canada. 
 
 - 📫 How to reach me **yash.gupta.data15@gmail.com**
