@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">
-  A passionate <b>Data Scientist & AI Engineer</b> based in Toronto, Canada 🇨🇦
+  A passionate <b>Data Scientist & AI Engineer</b> based in Toronto, Canada
 </h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Airbnb Hotel Booking Data Analysis & ML Project**
+- 🔭 Currently working on **AI & ML Projects**
 - 🤖 Strong interest in **AI Engineer & Data Scientist opportunities**
 - 📊 Experienced in **Data Analytics, Machine Learning & Power BI**
 - 🧠 Passionate about turning data into **actionable business insights**
